@@ -9,4 +9,4 @@
 选课页面：学生输入班级，学号，姓名，性别信息（4个信息均相同才表明是同一个学生），勾选3门科目，输入密码（登陆修改选课信息页面时需要输入该密码）。
 提交选课信息后，系统显示学生的各项信息和选课情况。
 修改选课信息页面：学生输入班级，学号，姓名，性别和登陆密码后，可以进入页面修改选课信息。
-![image](https://github.com/QiaoRuoZhuo/yxk/pic/index.jpg)
+![image](https://github.com/QiaoRuoZhuo/yxk/blob/master/pic/index.jpg)
